@@ -121,10 +121,13 @@ p> span{
   color: red;
 }
 .footer{
+  top: 0;
     width: 100%;
-    height: 100px;
+    height: 300px;
     color:white;
-    background-color: #d63447;
-  
-    padding: 20px;
+    background-color: #c81912;
+  border-radius: 80% 80% 0 0/80% 80% 0 0;
+    padding:70px;
+    transform: scaleX(1.2);
+}
 }
